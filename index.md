@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub Page for the African Bank Website Update v1.1
 
 You can use the [editor on GitHub](https://github.com/MicroAgency/abwebsiteupdate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
